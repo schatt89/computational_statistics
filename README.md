@@ -1,2 +1,2 @@
-# computational_statistics
+# Computational Statistics
 University course on Computational Statistics
